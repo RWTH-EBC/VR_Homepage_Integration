@@ -10,3 +10,14 @@ This Unity Project is compiled with WebGl.
 You get the Folder "Build", "TemplateData" & the file "index.html".
 After publishing this repository, the aforementioned Link is created.
 To integrate this on the original web page we use a IFrame Html Tag.
+
+HowTo
+
+You can use:
+
+Mouse Cursor to control the camera in X and Y - direction
+Arrows / WASD to move in X and Z- (horizontal und vertical) - direction 
+Space bar to start security events in case of a leakage of propane
+	
+
+
