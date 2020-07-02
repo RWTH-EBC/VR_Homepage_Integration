@@ -15,9 +15,11 @@ HowTo
 
 You can use:
 
-Mouse Cursor to control the camera in X and Y - direction
-Arrows / WASD to move in X and Z- (horizontal und vertical) - direction 
-Space bar to start security events in case of a leakage of propane
+1) Mouse Cursor to control the camera in X and Y - direction
+
+2) Arrows / WASD to move in X and Z- (horizontal und vertical) - direction 
+
+3) Space bar to start security events in case of a leakage of propane
 	
 
 
